@@ -36,5 +36,5 @@ def predict():
                             recommendations=recommended,
                             mood=mood)
 
-if __name__ == '__main__':
-    app.run(debug=True)
+# if __name__ == '__main__':
+#     app.run(debug=True)
